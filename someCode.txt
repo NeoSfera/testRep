@@ -1,0 +1,3 @@
+GitHub integration
+
+Join over 300,000 developers already using CircleCI's first-class integration with GitHub and GitHub Enterprise to enable build and test automation. 
