@@ -1,1 +1,6 @@
-* Git Init в подпапке
+* Git Init 	| in subfolder
+* Commit 	| All in folder repository
+* tortoise 	| adress github https://github.com/NeoSfera/testRep
+* Push to github server
+* add branch "developer"
+* clone rep to testRepDev
